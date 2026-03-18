@@ -20,7 +20,7 @@ Qual era o objetivo dessa atividade?
 ## Contexto
 Por que essa atividade foi necessária? Qual problema ou demanda originou isso?
 
-## Descrição do que foi feito
+## Descrição
 Descreva o que deve ser feito.
 
 ## Critérios de conclusão
