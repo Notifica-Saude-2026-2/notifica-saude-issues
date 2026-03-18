@@ -2,7 +2,7 @@
 name: Épico
 about: Modelo destinado à criação de épicos no repositório.
 title: "[Épico] "
-labels: epico
+labels: ''
 assignees: ''
 
 ---
