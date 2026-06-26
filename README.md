@@ -47,3 +47,29 @@ Inclui:
 Os templates devem ser utilizados em conjunto com o **documento de requisitos do NotificaSaúde**, garantindo alinhamento entre especificação e desenvolvimento.
 
 ---
+
+## 👥 Autores
+
+Este sistema foi desenvolvido como parte das disciplinas de **Prática em Desenvolvimento de Software** do [Núcleo de Práticas em Engenharia de Software — UFMS](https://nes.facom.ufms.br/).
+
+### Equipe 2026.1
+
+**Professora Orientadora:** Maria Istela Cagnin  
+**Técnico Responsável:** Lucas Henrique Alves Borth
+
+**Proponentes:** Ercilene Ribeiro, Aline Moraes, Viviane Euzebia
+
+| Nome              | E-mail                   |
+| ----------------- | ------------------------ |
+| Aline Hirokawa    | aline.hirokawa@ufms.br   |
+| Fabio Ramos       | fabio.ramos@ufms.br      |
+| Lucas G. Cordeiro | lucas.g.cordeiro@ufms.br |
+| Luigi Almeida     | luigi.almeida@ufms.br    |
+| Pedro Soledade    | pedro.soledade@ufms.br   |
+| Sophya Ribeiro    | sophya.ribeiro@ufms.br   |
+
+---
+
+## 📄 Licença
+
+Disponível sob a licença BSD disponível em [LICENSE](./LICENSE).
